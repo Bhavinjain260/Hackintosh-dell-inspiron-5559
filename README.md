@@ -85,7 +85,7 @@ WIFI Card | Intel Dual Band Wirelss AC-3160
 
 ## Control FAN Speed
 
-- Download [MAC'SFANCONTROL](https://crystalidea.com/macs-fan-control?ref=macupdate)
+- Download [Macs Fan Control](https://crystalidea.com/macs-fan-control?ref=macupdate)
 
     Use Mac's Fan Control.app
     Use Pro Version with :
