@@ -2,7 +2,7 @@
 
 **OC Version - 0.6.9**
 
-**MacOS Version - 11.3.1**
+**MacOS Version - 11.4**
 
 
 ![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/Screenshot%202021-05-11%20at%202.38.58%20PM.png?raw=true)
