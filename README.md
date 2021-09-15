@@ -1,8 +1,8 @@
 # Hackintosh-dell-inspiron-5559
 
-**OC Version - 7.0.0**
+**OC Version - 0.7.3**
 
-**MacOS Version - 11.4**
+**MacOS Version - 11.6**
 
 
 ![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/Screenshot%202021-05-11%20at%202.38.58%20PM.png?raw=true)
