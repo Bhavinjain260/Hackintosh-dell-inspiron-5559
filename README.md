@@ -5,7 +5,7 @@
 **MacOS Version - 11.6**
 
 
-![Alt text](https://raw.githubusercontent.com/Bhavinjain260/Hackintosh-dell-5559-opencore/main/Screenshots/Screenshot%202021-09-30%20at%209.53.39%20AM.png?token=AL46S2W2R4454MLL4TU2LY3BKU6GM)
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/Screenshot%202021-09-30%20at%209.59.02%20AM.png?raw=true)
 
 
 ## System Configuration :-
