@@ -36,6 +36,7 @@ WIFI Card | Intel Dual Band Wirelss AC-3160
 - Ethernet
 - WIFI + Bluetooth
 - Boot Chime
+- SD Card Reader
 
 ## What's Not Working :
 
