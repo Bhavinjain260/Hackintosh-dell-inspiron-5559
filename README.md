@@ -39,7 +39,6 @@ WIFI Card | Intel Dual Band Wirelss AC-3160
 
 ## What's Not Working :
 
-- Sd Slot
 - ....
 
 
