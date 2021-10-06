@@ -1,6 +1,6 @@
 # Hackintosh-dell-inspiron-5559
 
-**OC Version - 0.7.3**
+**OC Version - 0.7.4**
 
 **MacOS Version - 11.6**
 
