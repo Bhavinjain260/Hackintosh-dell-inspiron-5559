@@ -43,58 +43,96 @@ WIFI Card | Intel Dual Band Wirelss AC-3160
 - ....
 
 
-## Create Bootable Pen Drive :
-- Follow [this](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) guide 
+## Changes You Need To Make :- 
 
-## How to edit the config.plist
-- [Download] (https://github.com/corpnewt/ProperTree)
-- Make Any Changes using propertree or you can even use any TextEditor
-
-
-## Generate your serial
-- Download [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) / Use [Macserial](https://github.com/acidanthera/OpenCorePkg/releases) 
-- Generate a SMBIOS for Macbookpro13,1 and add the serials to the config.plist
-- Use only Invalid serial check at this [site](https://checkcoverage.apple.com/in/en/)
+<details>
+<summary><strong>How to edit the config.plist
+</strong></summary>
+    
+1. [Download] (https://github.com/corpnewt/ProperTree)
+2. Make Any Changes using propertree or you can even use any TextEditor
+</details>
 
 
-![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/Screenshot%202021-05-11%20at%2011.20.03%20AM.png?raw=true)
+<details>
+<summary><strong>Change these settings in BIOS</strong></summary>
+    
+- Enable
+- VT-x
+- Above 4G decoding
+- Hyper-Threading
+- Execute Disable Bit
+- EHCI/XHCI Hand-off
+- OS type: Windows 8.1/10 UEFI Mode
+- DVMT Pre-Allocated(iGPU Memory): 64MB
+- SATA Mode: AHCI
+    
+</details>
 
 
 
-## Change these settings in BIOS : -
-- - Enable
-- - VT-x
-- - Above 4G decoding
-- - Hyper-Threading
-- - Execute Disable Bit
-- - EHCI/XHCI Hand-off
-- - OS type: Windows 8.1/10 UEFI Mode
-- - DVMT Pre-Allocated(iGPU Memory): 64MB
-- - SATA Mode: AHCI
 
-## For More Info :
-- For more Info [**Visit**](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/skylake.html#starting-point) this site
-- or feel free to create a new issue
+<details>
+<summary><strong>Generate a Serial</strong></summary>
+    
+1. Download and open [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+    
+    
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/SMBios/1.png?raw=true)
+    
+    
+2. Select 3 to Genrate SMBios with ROM
+    
+    
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/SMBios/2.png?raw=true)
+    
+    
+3. Now Type "MacBookPro13,1 5" / "MacBookPro13,2 5" this will genarate 5 SMBios with ROM
+    
+    
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/SMBios/3.png?raw=true)
+    
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/SMBios/4.png?raw=true)
+    
+    
+4. Check the Serial validity on [Apple's check coverage](https://checkcoverage.apple.com/in/en/) **We have to use only invalid serial**
 
-## Get your Headset Mic working
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/SMBios/5.png?raw=true)
+    
+    
+5. Copy the serial in the config
+    - **Type** Goes in **Generic -> SystemProductName**
+    - **Serial** goes in **Generic -> SystemSerialNumber**
+    - **Board Serial** goes in **Generic -> MLB**
+    - **SmUUID** part goes in **Generic -> SystemUUID**
+    - **Apple Rom** goes in **Generic -> ROM**
+    
+    
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/SMBios/6.png?raw=true)
+    
+</details>
 
+
+
+
+<details>
+<summary><strong>Get your Headset Mic working
+</strong></summary>
+    
 1. Download [ComboJackInstaller ](https://github.com/hackintosh-stuff/ComboJack)
 2. Use the Install Script under ComboJack_Installer
-3. Do not change the Layout if you need to change the layout try 71 or 86
-4. Reboot
+3. Reboot
+</details>
 
-## Control FAN Speed
 
-- Download [Macs Fan Control](https://crystalidea.com/macs-fan-control?ref=macupdate)
+<details>
+<summary><strong>Control Fan Speed</strong></summary>
+    
+- Download [MAC'SFANCONTROL](https://crystalidea.com/macs-fan-control?ref=macupdate)
 
     Use Mac's Fan Control.app
     Use Pro Version with :
       Gmail : macwk.com@gmail.com
       License Key : MPD8G-XGA1C-WMDYE-WYCYY-FPX6W-TS1J8-P9P71-7GTPB-V6RAH-2B42R-PD1C8
+</details>
 
-## Post install fixes : 
-- [Fixing Iservices](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html)
-- [Booting with out USB](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html)
-- [Fixing Power Management](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html)
-- [Fixing Sleep](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html)
-- [Fixing USB Power](https://dortania.github.io/OpenCore-Post-Install/usb/)
