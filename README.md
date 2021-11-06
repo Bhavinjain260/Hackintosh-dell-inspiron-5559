@@ -1,11 +1,13 @@
 # Hackintosh-dell-inspiron-5559
 
-**OC Version - 0.7.4**
-
-**MacOS Version - 11.6**
 
 
-![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/Screenshot%202021-09-30%20at%209.59.02%20AM.png?raw=true)
+**OC Version - 0.7.5**
+
+**MacOS Version - 12.0.1**
+
+
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/monterey.png?raw=true)
 
 
 ## System Configuration :-
