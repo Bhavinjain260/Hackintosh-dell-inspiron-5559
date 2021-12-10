@@ -2,13 +2,15 @@
 
 
 
-**Do Not Clone And Use The EFI. Download From Release Tab**
+**Do Not Clone And Use The EFI.** 
+
+**Download From Release Tab**
 
 **This EFI is unTested**
 
-**OC Version - 0.7.5**
+**OC Version - 0.7.6**
 
-**MacOS Version - 12.0.1**
+**Latest Stable MacOS Version supported - 12.0.1**
 
 
 ![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/monterey.png?raw=true)
