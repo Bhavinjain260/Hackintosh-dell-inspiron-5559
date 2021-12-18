@@ -10,7 +10,7 @@
 
 **OC Version - 0.7.6**
 
-**Latest Stable MacOS Version supported - 12.0.1**
+**Latest Stable MacOS Version supported - 12.1**
 
 
 ![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/monterey.png?raw=true)
