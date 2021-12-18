@@ -13,7 +13,7 @@
 **Latest Stable MacOS Version supported - 12.1**
 
 
-![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/monterey.png?raw=true)
+![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/monterey%2012.1.png?raw=true)
 
 
 ## System Configuration :-
