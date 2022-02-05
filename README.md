@@ -127,7 +127,7 @@ WIFI Card | Intel Dual Band Wirelss AC-3160
 <summary><strong>Get your Headset Mic working
 </strong></summary>
     
-1. Download [ComboJackInstaller ](https://github.com/hackintosh-stuff/ComboJack)
+1. Download [ComboJackInstaller ](https://github.com/hackintosh-stuff/ComboJack) [ComboJackInstaller Test version](https://github.com/Bhavinjain260/ComboJack)
 2. Use the Install Script under ComboJack_Installer
 3. Reboot
 </details>
