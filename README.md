@@ -8,12 +8,12 @@
 
 **This EFI is unTested**
 
-**OC Version - 0.7.7**
+**OC Version - 0.7.8**
 
 **Latest Stable MacOS Version supported - 12.2**
 
 
-![Alt text](https://github.com/Bhavinjain260/Hackintosh-dell-5559-opencore/blob/main/Screenshots/monterey%2012.1.png?raw=true)
+![Alt text](https://raw.githubusercontent.com/Bhavinjain260/Hackintosh-dell-5559-opencore/main/Screen%20Shot%202022-02-10%20at%204.55.52%20PM.png?token=GHSAT0AAAAAABQLIXV2SUDYVND36JY2WATEYQE65UA)
 
 
 ## System Configuration :-
