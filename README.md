@@ -14,7 +14,6 @@
 
 
 ![About this Mac](https://user-images.githubusercontent.com/49932650/155383613-cd7aed4e-c0b5-4f99-8cf1-c405b863c980.png)
-xt]
 
 
 ## System Configuration :-
