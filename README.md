@@ -13,7 +13,8 @@
 **Latest Stable MacOS Version supported - 12.2.1**
 
 
-![Alt text](https://raw.githubusercontent.com/Bhavinjain260/Hackintosh-dell-5559-opencore/main/Screen%20Shot%202022-02-10%20at%204.55.52%20PM.png?token=GHSAT0AAAAAABQLIXV3XEC3TWJ34N2T52KYYQJJHNQ)
+![About this Mac](https://user-images.githubusercontent.com/49932650/155383613-cd7aed4e-c0b5-4f99-8cf1-c405b863c980.png)
+xt]
 
 
 ## System Configuration :-
