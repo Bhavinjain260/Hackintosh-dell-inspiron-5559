@@ -10,7 +10,7 @@
 
 **OC Version - 0.7.9**
 
-**Latest Stable MacOS Version supported - 12.3**
+**Latest Stable MacOS Version supported - 12.3.1**
 
 
 ![About this Mac](https://user-images.githubusercontent.com/49932650/155383613-cd7aed4e-c0b5-4f99-8cf1-c405b863c980.png)
