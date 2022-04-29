@@ -8,7 +8,7 @@
 
 **This EFI is unTested**
 
-**OC Version - 0.7.9**
+**OC Version - 0.8.0**
 
 **Latest Stable MacOS Version supported - 12.3.1**
 
