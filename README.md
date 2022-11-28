@@ -48,7 +48,7 @@ WIFI Card | Intel Dual Band Wirelss AC-3160
 
 ## What's Not Working :
 
-- ....
+- You Tell Me
 
 
 ## Changes You Need To Make :- 
